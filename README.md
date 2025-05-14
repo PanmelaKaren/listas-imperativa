@@ -1,2 +1,2 @@
 # lista01
-Lista 01 de programação imperativa 2025.1 
+Repositorio destinado as listas da disciplina de programação imperativa 2025.1 
